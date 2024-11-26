@@ -225,13 +225,7 @@ These are just a few examples of how DynaLoad can be used in different scenarios
 
 ## Browser Support
 
-DynaLoad is designed to work in modern web browsers that support ECMAScript 6 (ES6) features. It has been tested in the following browsers:
-
-- Chrome (latest version)
-- Firefox (latest version)
-- Safari (latest version)
-- Edge (latest version)
-
+DynaLoad is designed to work in modern web browsers that support ECMAScript 6 (ES6) features.
 ## Contributing
 
 Contributions to DynaLoad are welcome! If you encounter any issues, have suggestions for improvements, or would like to add new features, please open an issue or submit a pull request.
