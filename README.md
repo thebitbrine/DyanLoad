@@ -234,7 +234,7 @@ DynaLoad is designed to work in modern web browsers that support ECMAScript 6 (E
 
 ## Contributing
 
-Contributions to DynaLoad are welcome! If you encounter any issues, have suggestions for improvements, or would like to add new features, please open an issue or submit a pull request on the GitHub repository.
+Contributions to DynaLoad are welcome! If you encounter any issues, have suggestions for improvements, or would like to add new features, please open an issue or submit a pull request.
 
 ## License
 
@@ -242,7 +242,7 @@ DynaLoad is released under the [MIT License](https://opensource.org/licenses/MIT
 
 ## Credits
 
-DynaLoad was created by [Your Name] and is maintained by the open-source community.
+DynaLoad was created by TheBitBrine and is maintained by the open-source community.
 
 ## Support
 
@@ -250,6 +250,3 @@ If you have any questions, suggestions, or need assistance, please feel free to 
 
 ## Meme
 ![image](https://github.com/user-attachments/assets/7b5be0d7-3a25-48a7-b88c-6f1ba74b476f)
-
-
-Happy coding with DynaLoad!
