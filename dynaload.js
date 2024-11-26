@@ -1,6 +1,6 @@
 // DynaLoad Library
-// A utility for dynamically loading and caching HTML components, CSS, and JavaScript
-// https://github.com/thebitbrine/DyanLoad
+// A utility for dynamically loading and caching HTML components, CSS, and JavaScript.
+// https://github.com/thebitbrine/DynaLoad/
 
 const DynaLoad = (function() {
   // Cache to store loaded component HTML
